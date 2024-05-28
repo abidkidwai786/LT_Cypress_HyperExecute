@@ -1,0 +1,7 @@
+.hyperexecute.exe.old
+.updatedhyperexecute.yaml
+hyperexecute-cli.log
+hyperexecute.exe
+node_modules
+package-lock.json
+.hyperexecute
