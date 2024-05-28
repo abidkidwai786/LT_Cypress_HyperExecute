@@ -4,4 +4,4 @@ a) Download the HyperExecute CLI from https://www.lambdatest.com/support/docs/hy
 
 b) Add your LambdaTest username and access key.
 
-c) Run command:  .\hyperexecute.exe -i .\hyp.yaml -u <USERNAME> -k <ACCESS_KEY>
+c) Run command:  .\hyperexecute.exe -i .\hyp.yaml -u <LT_USERNAME> -k <LT_ACCESS_KEY>
